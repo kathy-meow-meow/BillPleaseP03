@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="bill_info">Bill Information</string>
+    <string name="viewAmt">Amount:</string>
+    <string name="editAmt">Enter original amount of the bill</string>
+    <string name="viewDis">Discount (%):</string>
+    <string name="editDis">Enter Discount Amount</string>
+    <string name="noSVS">No Service Charge</string>
+    <string name="SVS">Service Charge</string>
+    <string name="noGST">No GST</string>
+    <string name="GST">GST</string>
+    <string name="grpPayinfo">Group Payment Information</string>
+    <string name="viewPax">Number of People:</string>
+    <string name="editPax">Enter Pax</string>
+    <string name="paynowbutton">PayNow</string>
+    <string name="cashbutton">Cash</string>
+</resources>
